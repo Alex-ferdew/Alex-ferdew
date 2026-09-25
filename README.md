@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex.ferdew
 
-<!--
-**dubossary-pets/dubossary-pets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Web Developer
 
-Here are some ideas to get you started:
+I'm a junior web developer passionate about creating modern, responsive, and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm improving my skills in frontend development and building personal projects to gain practical experience.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Responsive Design
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Cursor
+- Sublime Text
+- Figma
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Pet Pets
+...
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- React
+- TypeScript
+- REST API
+- Clean Code
+- Git & GitHub
+
+---
+
+## 📫 Contact Me
+
+- GitHub: -
+- Email: -
+- LinkedIn: -
+
+---
+
+## ⚡ About Me
+
+- 💻 Junior Web Developer
+- 🌱 Always learning new technologies
+- 🚀 Interested in frontend and backend development
+
+---
