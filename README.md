@@ -30,7 +30,7 @@ Currently, I'm improving my skills in frontend development and building personal
 ## 🚀 Featured Projects
 
 ### 🌐 Pro Pets
-[Live Demo](https://alex-ferdew.github.io/название-репозитория/) | [GitHub](https://github.com/Alex-ferdew/название-репозитория/)
+[Live Demo](https://alex-ferdew.github.io/Alex-ferdew/pet-project/) | [GitHub](https://github.com/Alex-ferdew/Alex-ferdew/pet-project/)
 
 **Tech:** HTML, CSS, JavaScript
 ---
