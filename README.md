@@ -48,7 +48,8 @@ Currently, I'm improving my skills in frontend development and building personal
 ---
 
 ## 📫 Contact Me
-
+ For inquiries, please contact via Gmail.
+ 
 - GitHub: https://github.com/Alex-ferdew
 - Email: sashavoinskii06.10@gmail.com
 - LinkedIn: -
