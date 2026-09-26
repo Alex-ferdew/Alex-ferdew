@@ -49,7 +49,7 @@ Currently, I'm improving my skills in frontend development and building personal
 
 ## 📫 Contact Me
 
-- GitHub: -
+- GitHub: Alex-ferdew
 - Email: sashavoinskii06.10@gmail.com
 - LinkedIn: -
 
