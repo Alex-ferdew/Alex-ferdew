@@ -29,7 +29,7 @@ Currently, I'm improving my skills in frontend development and building personal
 
 ## 🚀 Featured Projects
 
-### 🌐 Pet Pets
+### 🌐 Pro Pets
 ...
 
 **Tech:** HTML, CSS, JavaScript
